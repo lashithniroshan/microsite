@@ -1,0 +1,35 @@
+{
+    "slide1Title": "LOREM IPSUM DOLOR",
+    "slide1Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros",
+    "video": "/mov_bbb.mp4",
+    "slide2": {
+        "title": "DONEC NEC JUSTO",
+        "images": [
+            "/img-800x368.jpg",
+            "/img-1280x800.jpg",
+            "/img-1920x1200.jpg"
+        ],
+        "slides": [
+            {
+                "title": "Lorem ipsum #1",
+                "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci."
+            },
+            {
+                "title": "Lorem ipsum #2",
+                "description": "Aenean dignissim pellentesque felis sed egestas, ante et vulputate volutpat"
+            },
+            {
+                "title": "Lorem ipsum #3",
+                "description": "Aenean dignissim pellentesque felis sed egestas, ante et vulputate volutpat"
+            },
+            {
+                "title": "Lorem ipsum #4",
+                "description": "Aenean dignissim pellentesque felis sed egestas, ante et vulputate volutpat"
+            },
+            {
+                "title": "Lorem ipsum #5",
+                "description": "Aenean dignissim pellentesque felis sed egestas, ante et vulputate volutpat"
+            }
+        ]
+    }
+}
